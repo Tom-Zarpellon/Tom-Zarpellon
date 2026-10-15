@@ -9,7 +9,7 @@
 
 En stage chez AMDL, à Guebwiller, j'ai réalisé un intranet et un CRM, puis un PIM et un outil de gestion commerciale, en React et TypeScript, avec Supabase et un déploiement sur Vercel.
 
-<img src="./stats-projets.png" alt="600 utilisateurs de mon application iOS, 3 outils métier livrés à une entreprise, projets en Suisse pour des entreprises" width="100%">
+<img src="./widget.png" alt="Rasso, application iOS : 600 utilisateurs. Plus de 5 CRM et ERP livrés pour la vente. 2 premiers clients en Suisse." width="100%">
 
 ## Compétences
 
