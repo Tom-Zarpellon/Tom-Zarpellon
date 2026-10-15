@@ -9,7 +9,7 @@
 
 En stage chez AMDL, à Guebwiller, j'ai réalisé un intranet et un CRM, puis un PIM et un outil de gestion commerciale, en React et TypeScript, avec Supabase et un déploiement sur Vercel.
 
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Tom-Zarpellon&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<img src="./projets-stats.png" alt="600 utilisateurs sur l'application iOS, 3 outils métier livrés, projets pour des entreprises suisses" width="100%">
 
 ## Compétences
 
@@ -51,9 +51,7 @@ En stage chez AMDL, à Guebwiller, j'ai réalisé un intranet et un CRM, puis un
 
 ## Projets
 
-**Application mobile** — conçue et publiée sur l'App Store, de l'idée jusqu'à la mise en production.
-
-**Rasso** — application autour des rassemblements automobiles en France : recherche utilisateur, prototype et carte.
+**Rasso** — application iOS publiée sur l'App Store, environ 600 utilisateurs. Rassemblements automobiles en France : carte, profils et communauté.
 
 **Petly** — conception pour les propriétaires d'animaux : parcours utilisateur et design system.
 
