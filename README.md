@@ -1,3 +1,5 @@
+<img src="./banner.png" alt="Tom Zarpellon, étudiant ingénieur en Informatique et Réseaux à l'ENSISA" width="100%">
+
 - Comment me joindre :
   - e-mail : [tom.zarpellon@gmail.com](mailto:tom.zarpellon@gmail.com)
   - LinkedIn : [tom-zarpellon](https://www.linkedin.com/in/tom-zarpellon)
